@@ -18,3 +18,4 @@ This project aims to provide a foundation for further exploration into machine l
 
 
 ![image](https://github.com/paveenwatpoln/Python-WebScraping-IMDbMovieRating/assets/155377150/8cd644e4-59ba-4bc9-974b-f7bf39f5447a)
+![image](https://github.com/paveenwatpoln/Python-WebScraping-IMDbMovieRating/assets/155377150/aa4ed313-607b-471d-be28-50d7aaf623dd)
